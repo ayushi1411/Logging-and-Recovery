@@ -1,0 +1,7 @@
+A 4 B 4 D 5
+T1 2
+read(A, t)
+t := t+2
+T2 2
+write(A, t)
+output(A)
