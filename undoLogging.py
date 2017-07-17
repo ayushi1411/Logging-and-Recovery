@@ -93,11 +93,4 @@ while len(transName) != 0:
 		transName.remove(i)
 
 	flag=False	
-				
-
-
-
-
-
-
-	
+					
